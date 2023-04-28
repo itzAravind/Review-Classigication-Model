@@ -8,6 +8,7 @@ This project aims to analyze customer reviews for restaurants and gain insights 
 **2. An advanced analytics model for analyzing the categorized reviews to understand whether the review of each category is positive or negative.
 The project uses Simple Transformers, BERT algorithm, RoBERTa algorithm, and sentiment analysis to gain insights from customer reviews.**
 
+
 **Research Methodology**
 The project is divided into two phases. Phase I involves classifying the reviews into different categories, and Phase II involves performing advanced analytics on the categorized reviews to understand the strength and weakness of the restaurant.
 
