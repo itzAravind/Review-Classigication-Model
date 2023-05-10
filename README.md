@@ -5,6 +5,7 @@ This project aims to analyze customer reviews for restaurants and gain insights 
 **1. A model for classifying restaurant reviews into different categories such as food taste, price, quantity, and more.**
 
 
+
 **2. An advanced analytics model for analyzing the categorized reviews to understand whether the review of each category is positive or negative.
 The project uses Simple Transformers, BERT algorithm, RoBERTa algorithm, and sentiment analysis to gain insights from customer reviews.**
 
